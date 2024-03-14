@@ -29,3 +29,8 @@ Follow the steps:
 - git clone
 - npm i
 - ng serve
+
+## Task 2
+
+CloudFront URL: https://d2yyq2utishvtb.cloudfront.net/
+S3 Bucket URL: https://jee-shop-angular.s3.amazonaws.com/index.html
